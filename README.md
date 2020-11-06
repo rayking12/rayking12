@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1R8shLMT_D7TnVSAZqriShyPFVQsHY70kvA1FVGS4fCs/edit?usp=sharing](https://docs.google.com/document/d/1R8shLMT_D7TnVSAZqriShyPFVQsHY70kvA1FVGS4fCs/edit?usp=sharing)
 
-- ⚡ Fun fact **yeah looking for a smart,dedicated one? yeah you're at the right place**
+- ⚡ Fun fact ** looking for a smart,dedicated one? yeah you're at the right place**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
