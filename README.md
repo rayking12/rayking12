@@ -3,9 +3,9 @@
 
 
 
-- 📫 How to reach me [rayodo667@gmail.com](Mail)
+- 📫 How to reach me [Mail](rayodo667@gmail.com)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1R8shLMT_D7TnVSAZqriShyPFVQsHY70kvA1FVGS4fCs/edit?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1R8shLMT_D7TnVSAZqriShyPFVQsHY70kvA1FVGS4fCs/edit?usp=sharing)
 
 - ⚡ Fun fact ** looking for a smart,dedicated one? yeah you're at the right place**
 
