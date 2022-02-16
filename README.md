@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm King Ray</h1>
 <h3 align="center">A full-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayking12&label=Profile%20views&color=0e75b6&style=flat" alt="rayking12" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_rayking__" target="blank"><img src="https://img.shields.io/twitter/follow/_rayking__?logo=twitter&style=for-the-badge" alt="_rayking__" /></a> </p>
-
-- 🌱 I’m currently learning **ruby, ruby on rails**
-
-- 👯 I’m looking to collaborate on **Freelance Projects**
-
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **rayodo667@gmail.com**
 
